@@ -2,3 +2,8 @@ In this project, you’ll deploy web servers for a highly available web app usin
 
 URL of my deploymnet:
 http://serve-WebAp-1LP1RTJX40DJ7-499521121.us-west-2.elb.amazonaws.com
+
+27/01/2020      docs: Update README
+27/01/2020      docs: Fix README extension
+25/01/2020      docs: Adding README and a diagram
+24/01/2020      First Version
